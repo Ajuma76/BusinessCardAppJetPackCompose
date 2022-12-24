@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="card_name">Allan Juma</string>
+    <string name="card_title">Android Developer Extraordinaire</string>
+    <string name="contact_details">+254704617805</string>
+    <string name="social_media">\@AndroidDev</string>
+    <string name="email_contact">allanjuma76@gmail.com</string>
+    <!--    .background(Color(0xFF0C4160)-->
+</resources>
